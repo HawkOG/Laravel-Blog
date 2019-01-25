@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+ @import url('https://fonts.googleapis.com/css?family=Nunito:400,700,900&subset=latin-ext');
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    font-family: 'Nunito';
+  }
+}
+
+.card-header{
+  background:none;
+}
+
+.xx-navbar{
+  background:#4267b2;
+  height:42px;
+}
+
+.navbar-brand img{
+  width:25px;
+  margin-top:-2px;
+  line-height:0;
+}
+
+.pagination{
+  margin-top:30px;
+}
+.page-item.active .page-link{
+  background:#4267b2;
+}
+
+.blog_footer{
+  background:#4267b2;
+  height:45px;
+}
